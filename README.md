@@ -1,4 +1,5 @@
-# Proyecto final curso de Modelos de Programación 1
+# Ghouls & Liches
+## Proyecto final curso de Modelos de Programación 1
 ### Universidad Distrital Francisco José de Caldas
 
 ## Miembros del equipo
